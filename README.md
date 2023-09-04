@@ -8,3 +8,4 @@ Odgadnięcie jaką liczbę z zakresu 1-10, wylosował program.
 #
 ### Programik: 7_Lista.py
 Jak używać listy ( dopisywać, liczyć ilość elenentów, sortować, zamieniać).
+#
